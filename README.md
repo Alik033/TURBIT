@@ -9,18 +9,17 @@ The datasets are available at this [link](https://ieee-dataport.org/documents/tu
 
 ## Results
 
-2.       </br></br>
-<img src="figures/result_uie.png" /></br></br></br>
-
-3.       </br></br>
-
-<img src="figures/resultdepth.png" /></br></br></br>
-
-
-4.       </br></br>
+2. Analysis of Fusion Methods       </br></br>
 
 <img src="figures/unet_vgg_fusion.png" /></br></br></br>
 
-	
+
+
+3. Depth Maps Results      </br></br>
+<img src="figures/resultdepth.png" /></br></br></br>
+
+
+4. UIE Evaluation on Turbid-UIEB and Turbid-LSUI       </br></br>
+<img src="figures/result_uie.png" /></br></br></br>
 	
 	
